@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         int age =30;
         Gender input_gender=Gender.MALE;
-//testing Git Sync dd
+//testing Git Sync ddgit
         Student hari = new Student(age, input_gender);
         System.out.println("original age is "+hari.age);
         System.out.println("original gender is " +hari.studentGender);
